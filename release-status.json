@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "claude",
+  "core": "indus-design-essay_claude",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "indus-design-essay": "89ff8c2722a8e73cb3f9119e7b5bb48f26c58028538ae1f14dd854e7fe5d7bd7"
+  }
+}
